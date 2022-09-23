@@ -14,7 +14,7 @@ When opening the website you are able to read about Horiseon as a company. Each 
 * add comments to each section of the html file
 
 ## screenshot
-![Screenshot](C:\Users\Ricem\code\code-refactor-2\Develop\assets\images\screenshot.png) 
+![Screenshot](screenshot.png) 
 
 
 ## License
