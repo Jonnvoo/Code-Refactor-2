@@ -6,13 +6,15 @@ This project was to do a code refactor on the Horiseon website homepage. The tas
 ## Usage
 When opening the website you are able to read about Horiseon as a company. Each image has a description for people with disabilities. Also, the header links will take you to each section of the page.
 
-# Changes added 
+## Changes added 
 * added a title
 * Changed all the semantic tags
 * Put alt text on each image
 * condensed some CSS code that was too repettive
 * add comments to each section of the html file
 
+## screenshot
+![Screenshot](C:\Users\Ricem\code\code-refactor-2\Develop\assets\images\screenshot.png) 
 
 
 ## License
